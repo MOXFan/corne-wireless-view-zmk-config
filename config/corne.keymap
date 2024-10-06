@@ -72,7 +72,7 @@
         arrows {
             bindings = <
 &trans  &trans  &trans    &kp UP    &trans     &trans    &trans  &trans     &trans     &trans    &trans    &trans
-&trans  &trans  &kp LEFT  &kp DOWN  &kp RIGHT  &trans    &trans  &kp LSHFT  &kp LCTRL  &kp LALT  &kp LGUI  &trans
+&trans  &trans  &kp LEFT  &kp DOWN  &kp RIGHT  &trans    &trans  &kp RSHFT  &kp LCTRL  &kp LALT  &kp LGUI  &trans
 &trans  &trans  &trans    &trans    &trans     &trans    &trans  &trans     &trans     &trans    &trans    &trans
                           &trans    &trans     &trans    &trans  &trans     &trans
             >;
